@@ -1,3 +1,6 @@
 "Bootcamp GitHub Assignment"      # Creates a file with text
 "Bootcamp GitHub Assignment"  
-"Update from feature2 branch" 
+Bootcamp GitHub Assignment
+Update from feature3 branch
+Update from feature2 branch
+
